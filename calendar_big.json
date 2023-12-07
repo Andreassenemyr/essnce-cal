@@ -1,0 +1,198 @@
+{
+    "calendarId": "big",
+    "title": "Stora Julkalendern",
+    "days": {
+        "1": {
+            "name": "8ml Fleur Chere",
+            "inspo": "Baccarat Rouge 540 MFK",
+            "top": "Toppnoter - Jasmin, apelsin",
+            "hart": "Hjärtnoter - Ambra, Ambergris, myrra",
+            "base": "Basnoter - Cederträ, vanilj",
+            "link": "https://essnce.se/products/fleur-chere"
+        },
+        "2": {
+            "name": "2ml Dewy Desert",
+            "inspo": "Mojave Ghose Byredo",
+            "top": "Toppnoter - Ambrette seeds, naseberry",
+            "hart": "Hjärtnoter - Magnolia, sandelträ, viol ",
+            "base": "Basnoter - Cederträ, mysk, amber, grädde",
+            "link": "https://essnce.se/products/dewy-desert"
+        },
+        "3": {
+            "name": "2ml Sassy Classy",
+            "inspo": "Libre YSL",
+            "top": "Toppnoter - Lavender, mandarin, svarta vinbär",
+            "hart": "Hjärtnoter - Apelsinblomma, jasmin, rosépeppar",
+            "base": "Basnoter - Mysk, cederträ, vanilj, amber",
+            "link": "https://essnce.se/products/sassy-classy"
+        },
+        "4": {
+            "name": "8ml Black Velvet",
+            "inspo": "Black Opium YSL",
+            "top": "Toppnoter - Päron, kaffe, rosépeppar",
+            "hart": "Hjärtnoter - Apelsinblomma, jasmin, liljekonvalj",
+            "base": "Basnoter - Trä, patchouli, vanilj, amber",
+            "link": "https://essnce.se/products/black-velvet"
+        },
+        "5": {
+            "name": "2ml Delicate Jasmine",
+            "inspo": "My Way Armani",
+            "top": "Toppnoter - Apelsinblomma, citron, Bergamott",
+            "hart": "Hjärtnoter - Tuberose, jasmin",
+            "base": "Basnoter - Vanilj , amber, mysk, trä",
+            "link": "https://essnce.se/products/delicate-jasmine"
+        },
+        "6": {
+            "name": "2ml Rose Rose",
+            "inspo": "Inspirerad av Chloé edp Chloé",
+            "top": "Toppnoter - Fresia, litchi, pion, vinbär, ros",
+            "hart": "Hjärtnoter - Liljekonvalj, magnolia och majros",
+            "base": "Basnoter -  Cederträ, mysk och amber",
+            "link": "https://essnce.se/products/rose-rose"
+        },
+        "7": {
+            "name": "2ml Warm'n Spicy",
+            "inspo": "La vie est Belle Lancome",
+            "top": "Toppnoter - Päron, svarta vinbär, rosépeppar",
+            "hart": "Hjärtnoter - Apelsinblomma, jasmin, iris",
+            "base": "Basnoter - Patchouli, vanilj, tonka böna",
+            "link": "https://essnce.se/products/warmn-spicy"
+        },
+        "8": {
+            "name": "2ml Very Chery",
+            "inspo": "Lost cherry Tom Ford",
+            "top": "Toppnoter - Körsbär, bittermandel, likör",
+            "hart": "Hjärtnoter - Körsbär, plommon, ros, jasmin",
+            "base": "Basnoter - Tonkaböna, vanilj, kanel, trä, patchouli",
+            "link": "https://essnce.se/products/very-cherry"
+        },
+        "9": {
+            "name": "2ml Femina Fiori",
+            "inspo": "Armani Sí Firoi",
+            "top": "Toppnoter - Svart vinbär, grön mandarin",
+            "hart": "Hjärtnoter - Apelsinblomma, ros, patchouli",
+            "base": "Basnoter - Vanilj, vit mysk",
+            "link": "https://essnce.se/products/femina-fiori"
+        },
+        "10": {
+            "name": "DOFTLJUS",
+            "inspo": "Black Velvet",
+            "top": " ",
+            "hart": " ",
+            "base": " ",
+            "link": "https://essnce.se/products/doftljus-black-velvet"
+        },
+        "11": {
+            "name": "8ml Perenne Amore",
+            "inspo": "Valentino Donna Born In roma",
+            "top": "Toppnoter - Svarta vinbär, rosépeppar, bergamott",
+            "hart": "Hjärtnoter - Jasmin, sambac jasmin, jasminte",
+            "base": "Basnoter - Bourbon vanilj, cashmire, guaiac trä",
+            "link": "https://essnce.se/products/perenne-amore"
+        },
+        "12": {
+            "name": "2ml Woody Sandal",
+            "inspo": "Le Labo Santal 33",
+            "top": "Toppnoter - Viol, kardemumma",
+            "hart": "Hjärtnoter - Cederträ, sandelträ, iris",
+            "base": "Basnoter - Vit Mysk, läder, papyrus",
+            "link": "https://essnce.se/products/woody-sandal"
+        },
+        "13": {
+            "name": "8ml Absolu Vanilla",
+            "inspo": "Kayali Vanilla 28",
+            "top": "Toppnoter - Vaniljorkidé & Jasmin",
+            "hart": "Hjärtnoter - Vanilj & Tonkabönor",
+            "base": "Basnoter - Skog, mysk, brunt socker & patchouli",
+            "link": "https://essnce.se/products/absolu-vanilla"
+        },
+        "14": {
+            "name": "2ml Hot mimosa",
+            "inspo": "Hotshot Linn Ahlborg x Nordicfeel",
+            "top": "Toppnoter - Päron, persika, kaffe och rosépeppar",
+            "hart": "Hjärtnoter - Mulbär, apelsinblomma, jasmin, liljekonvalj",
+            "base": "Basnoter - Trä, patchouli, vanilj, amber",
+            "link": "https://essnce.se/products/hot-mimosa"
+        },
+        "15": {
+            "name": "2ml Tres Femme",
+            "inspo": "Coco Mademosielle Chanel",
+            "top": "Toppnoter - Bergamot & Apelsin",
+            "hart": "Hjärtnoter - Jasmin & ros",
+            "base": "Basnoter - Vanilj, patchouli, vetiver, vit mysk",
+            "link": "https://essnce.se/products/tres-femme-inspirerad-av-coco-mademosielle"
+        },
+        "16": {
+            "name": "8ml Drunk Apple pie",
+            "inspo": "Angels Share Kilian Paris",
+            "top": "Toppnoter - Konjak & kaffe",
+            "hart": "Hjärtnoter - Kanel, tonkabönor & ekträ",
+            "base": "Basnoter - Pralin, vanilj, sandelträ",
+            "link": "https://essnce.se/products/drunk-apple-pie"
+        },
+        "17": {
+            "name": "2ml Orange blossom",
+            "inspo": "Love Dont be Shy Kilian Paris",
+            "top": "Toppnoter - Bergamot, neroli & rosepeppar",
+            "hart": "Hjärtnoter - Kaprifol, ros, apelsinblomma, iris och jasmin",
+            "base": "Basnoter - Socker, vanilj, karamell, amber och mysk",
+            "link": "https://essnce.se/products/orange-blossom"
+        },
+        "18": {
+            "name": "2ml Belle Femme",
+            "inspo": "The scent for her Hugo Boss",
+            "top": "Toppnoter - Persika, freesia",
+            "hart": "Hjärtnoter - Osmanthus",
+            "base": "Basnoter - Kakao",
+            "link": "https://essnce.se/products/belle-femme"
+        },
+        "19": {
+            "name": "2ml Signature Vang",
+            "inspo": "Bal D'afrique Byredo",
+            "top": "Toppnoter - Citron, svarta vinbär, bergamott, apelsinblomma",
+            "hart": "Hjärtnoter - Viol, cyklamen, jasmin",
+            "base": "Basnoter - Vetiver, mysk, amber, cederträ",
+            "link": "https://essnce.se/products/signature-vang"
+        },
+        "20": {
+            "name": "2ml Irresistible Enigma",
+            "inspo": "Prada Paradoxe",
+            "top": "Toppnoter - Päron, mandarin, bergamott",
+            "hart": "Hjärtnoter - Apelsinblomma, sambac jasmin, neroli",
+            "base": "Basnoter - Bourbon vanilj, vit mysk, amber, benzoin",
+            "link": "https://essnce.se/products/irresistible-enigma"
+        },
+        "21": {
+            "name": "8ml Dusty Amber",
+            "inspo": "Good Girl Carolina Herrera",
+            "top": "Toppnoter - Mandel, kaffe, äpple, lime och bergamot",
+            "hart": "Hjärtnoter - Jasmin, apelsinblomma, ros, tuberos, och iris",
+            "base": "Basnoter - Tonka böna, amber, sandelträ, kakao, vanilj, pralin",
+            "link": "https://essnce.se/products/dusty-amber"
+        },
+        "22": {
+            "name": "2m Iconic Flower",
+            "inspo": "Flowerbomb Victor&Rolf",
+            "top": "Toppnoter - Bergamot, tuberose och te",
+            "hart": "Hjärtnoter - Jasmin, ros och orkide",
+            "base": "Basnoter - Mysk, sandelträ, patchouli och vanilj",
+            "link": "https://essnce.se/products/iconic-flower"
+        },
+        "23": {
+            "name": "Refillable travel spray",
+            "inspo": "Din favorit",
+            "top": " ",
+            "hart": " ",
+            "base": " ",
+            "link": "https://essnce.se/products/refillable-travel-spray"
+        },
+        "24": {
+            "name": "Presentkort",
+            "inspo": "Din favorit",
+            "top": " ",
+            "hart": " ",
+            "base": " ",
+            "link": "https://essnce.se/products/presentkort"
+        }
+    }
+}
